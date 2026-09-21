@@ -1,0 +1,12 @@
+filename,title,category,pages,source_type,description
+"acceptable-use-policy.pdf","Acceptable Use Policy","IT",5,synthetic,"Guidelines for acceptable employee use of company technology resources and systems."
+"benefits-overview.pdf","Employee Benefits Overview","HR",4,synthetic,"Comprehensive overview of employee benefits programs, health insurance, and retirement plans."
+"code-of-conduct.pdf","Code of Conduct","Legal",4,synthetic,"Company standards for employee behavior, ethics, and professional conduct expectations."
+"expense-reimbursement-policy.pdf","Expense Reimbursement Policy","Finance",3,synthetic,"Rules and procedures for submitting and processing business expense reimbursements."
+"holiday-schedule.pdf","Holiday Schedule","Operations",2,synthetic,"Official company holiday calendar and special leave observances."
+"information-security-policy.pdf","Information Security Policy","IT",4,synthetic,"Security protocols for protecting company data, systems, and information assets."
+"onboarding-guide.pdf","Onboarding Guide","HR",4,synthetic,"New employee orientation process and introductory training materials."
+"performance-review-policy.pdf","Performance Review Policy","Operations",4,synthetic,"Procedures for conducting employee performance evaluations and feedback processes."
+"pto-and-leave-policy.pdf","PTO and Leave Policy","HR",3,synthetic,"Paid time off, sick leave, and other leave policy guidelines and entitlements."
+"public_counsel_employee_handbook.pdf","Public Counsel Employee Handbook","HR",40,real_public,"Real-world employee handbook from a government agency covering employment policies and procedures."
+"remote-work-policy.pdf","Remote Work Policy","Operations",4,synthetic,"Guidelines for remote work arrangements, home office setup, and productivity expectations."

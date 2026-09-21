@@ -1,0 +1,45 @@
+ACME CORP EXPENSE REIMBURSEMENT POLICY
+Policy ID: ACME-FIN-001
+Version: 2.0
+Effective Date: January 1, 2026
+
+1. PURPOSE
+This policy defines which business expenses ACME Corp will reimburse and the approval and documentation required.
+
+2. ELIGIBLE EXPENSES
+2.1 Reasonable business travel, lodging, meals, local transportation, and approved business supplies may be reimbursable.
+2.2 Expenses must have a legitimate business purpose.
+2.3 Personal expenses are not reimbursable.
+
+3. SPENDING LIMITS
+3.1 Standard domestic lodging is reimbursable up to $200 per night before applicable taxes unless a higher limit is approved in advance.
+3.2 Business meals are reimbursable up to $75 per person unless a higher amount is approved.
+3.3 Ground transportation should use reasonable and economical options.
+3.4 Expenses exceeding standard limits require documented advance approval from the employee's manager.
+
+4. RECEIPTS
+4.1 Receipts are required for individual expenses of $25 or more.
+4.2 Lost receipts must be explained using the company's expense exception process.
+4.3 Credit-card statements alone do not replace a required receipt unless Finance approves an exception.
+
+5. SUBMISSION DEADLINE
+5.1 Expense reports should normally be submitted within 15 calendar days after the end of the business trip or the date the expense is incurred.
+5.2 Late submissions may require additional approval.
+
+6. BUSINESS PURPOSE
+Each expense must include a clear business purpose and, where applicable, the names or roles of participants.
+
+7. PROHIBITED EXPENSES
+Alcohol purchased for personal consumption, entertainment without a business purpose, traffic fines, personal upgrades, and expenses for family members are not reimbursable unless specifically approved under another company program.
+
+8. TRAVEL ADVANCES
+Travel advances require Finance approval and must be reconciled against actual documented expenses.
+
+9. APPROVAL
+Employees must submit expenses to their manager for review. Finance may reject expenses that lack documentation, exceed limits without approval, or appear unrelated to business activities.
+
+10. FRAUD AND MISREPRESENTATION
+Falsifying receipts, creating false business purposes, or submitting the same expense more than once is prohibited and may result in disciplinary action.
+
+11. QUESTIONS
+Questions about unusual expenses or exceptions should be directed to Finance before the expense is incurred whenever practical.

@@ -1,0 +1,42 @@
+ACME CORP ACCEPTABLE USE POLICY
+Policy ID: ACME-SEC-002
+Version: 2.0
+Effective Date: January 1, 2026
+
+1. PURPOSE
+This policy defines acceptable use of ACME Corp computers, networks, accounts, internet access, and communication systems.
+
+2. AUTHORIZED USE
+2.1 Company systems are primarily provided for business activities.
+2.2 Limited personal use may be permitted when it does not interfere with work, consume excessive resources, create security risks, or violate company policy.
+
+3. ACCOUNT USE
+3.1 Employees must use only their own company accounts.
+3.2 Account credentials must remain confidential.
+3.3 Employees must not allow another person to use their account.
+
+4. INTERNET AND EMAIL
+4.1 Employees must not use company systems to send unlawful, threatening, discriminatory, or harassing material.
+4.2 Employees must exercise caution when opening links or attachments.
+4.3 Company email must not be used for unauthorized commercial activity.
+
+5. SOFTWARE AND DOWNLOADS
+5.1 Employees may not install unauthorized software.
+5.2 Files downloaded from the internet must be obtained from trustworthy sources and scanned when required.
+5.3 Pirated software and unauthorized copyrighted material must not be stored on company systems.
+
+6. DATA AND CONTENT
+6.1 Company data must be handled according to its classification.
+6.2 Employees must not upload confidential company data to personal storage or unapproved external services.
+
+7. PROHIBITED ACTIVITIES
+Examples include credential sharing, unauthorized system access, deliberate malware distribution, attempts to bypass security controls, illegal activity, harassment, and excessive personal use that interferes with business operations.
+
+8. MONITORING
+ACME Corp may monitor use of company systems to the extent permitted by applicable law and company policy for security, compliance, and operational purposes.
+
+9. EXCEPTIONS
+Exceptions require approval from the appropriate system owner or IT Security.
+
+10. VIOLATIONS
+Violations may result in suspension of access, corrective action, or disciplinary action under applicable policies.

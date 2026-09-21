@@ -1,0 +1,5 @@
+id,proposal,expected_status,predicted_status,passed
+TC001,I want to work remotely for 20 days using my personal laptop.,Non-Compliant,Unknown,False
+TC002,I want to work remotely for 10 days using a company-issued laptop with manager approval.,Compliant,Unknown,False
+TC003,I want to work remotely for 45 consecutive days.,Requires Approval,Unknown,False
+TC004,I want to work remotely from a location that my manager has not approved.,Non-Compliant,Unknown,False

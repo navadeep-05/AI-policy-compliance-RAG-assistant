@@ -1,0 +1,42 @@
+ACME CORP HOLIDAY SCHEDULE
+Policy ID: ACME-HR-005
+Version: 2.0
+Effective Date: January 1, 2026
+
+1. PURPOSE
+This policy defines the standard company holidays observed by ACME Corp.
+
+2. STANDARD HOLIDAYS
+ACME Corp normally observes the following paid holidays for eligible employees:
+- New Year's Day — January 1
+- Memorial Day — last Monday in May
+- Independence Day — July 4
+- Labor Day — first Monday in September
+- Thanksgiving Day — fourth Thursday in November
+- Day after Thanksgiving
+- Christmas Day — December 25
+- One additional company-designated holiday announced annually
+
+3. HOLIDAY OBSERVANCE
+3.1 If a holiday falls on a weekend, ACME Corp will announce the observed weekday when applicable.
+3.2 The annual holiday calendar published by Human Resources is the controlling schedule for the applicable year.
+
+4. ELIGIBILITY
+4.1 Holiday eligibility depends on employment classification and scheduled work status.
+4.2 Employees on approved leave should consult HR regarding how the holiday affects their leave balance.
+
+5. WORKING ON A HOLIDAY
+5.1 Certain business functions may require employees to work on a company holiday.
+5.2 Compensation or alternative time off for holiday work depends on employment classification and applicable company rules.
+
+6. HOLIDAY AND PTO
+A company holiday that occurs during approved PTO is normally not deducted from the employee's PTO balance.
+
+7. PART-TIME EMPLOYEES
+Holiday eligibility and pay for part-time employees are determined according to applicable employment terms and law.
+
+8. SCHEDULE CHANGES
+Human Resources may publish changes or additions to the annual holiday calendar when business or operational requirements require them.
+
+9. QUESTIONS
+Employees should contact Human Resources for questions about holiday eligibility or the current annual calendar.

@@ -1,0 +1,52 @@
+ACME CORP INFORMATION SECURITY POLICY
+Policy ID: ACME-SEC-001
+Version: 2.0
+Effective Date: January 1, 2026
+
+1. PURPOSE
+This policy establishes minimum requirements for protecting ACME Corp information, systems, devices, and accounts.
+
+2. SCOPE
+This policy applies to employees, contractors, and other authorized users who access company information or systems.
+
+3. ACCOUNT SECURITY
+3.1 Each user must use an individually assigned account.
+3.2 Passwords and authentication codes must not be shared.
+3.3 Multi-factor authentication must be enabled where required.
+3.4 Users must lock their devices when unattended.
+
+4. DEVICE SECURITY
+4.1 Company information must be accessed using approved and managed devices unless an exception is authorized by IT Security.
+4.2 Required operating-system and security updates must be installed.
+4.3 Employees must not disable endpoint protection, encryption, or other mandatory security controls.
+
+5. DATA HANDLING
+5.1 Confidential information must be stored only in approved company systems.
+5.2 Confidential information must not be uploaded to unapproved public file-sharing or AI services.
+5.3 Employees must verify recipients before sending sensitive information.
+5.4 Sensitive information should be encrypted when required by company standards.
+
+6. NETWORK ACCESS
+6.1 Remote access to internal systems must use approved secure access methods.
+6.2 Employees must avoid using unsecured public networks for sensitive activities unless an approved secure connection is active.
+
+7. INCIDENT REPORTING
+7.1 Suspected phishing, malware, unauthorized access, lost devices, or accidental data disclosure must be reported to the IT Security team immediately.
+7.2 Employees must not attempt to conceal a security incident.
+
+8. SOFTWARE AND SERVICES
+8.1 Employees may install software only when permitted by company standards.
+8.2 Unapproved software or cloud services must not be used to process confidential company information.
+
+9. ACCESS CONTROL
+9.1 Users may access only systems and data required for their job responsibilities.
+9.2 Access must not be shared or transferred to another employee.
+
+10. PROHIBITED ACTIVITIES
+Credential sharing, bypassing security controls, unauthorized scanning, deliberate malware introduction, and unauthorized disclosure of confidential information are prohibited.
+
+11. EXCEPTIONS
+Security exceptions require documented approval from IT Security before the exception is used.
+
+12. RESPONSIBILITIES
+Employees must protect credentials and devices, follow security procedures, complete required security training, and report incidents promptly.

@@ -1,0 +1,46 @@
+ACME CORP CODE OF CONDUCT
+Policy ID: ACME-HR-003
+Version: 2.0
+Effective Date: January 1, 2026
+
+1. PURPOSE
+The Code of Conduct establishes expected standards of professional behavior and ethical decision-making.
+
+2. PROFESSIONAL BEHAVIOR
+2.1 Employees must treat colleagues, customers, partners, and visitors respectfully.
+2.2 Employees must communicate professionally and avoid abusive, threatening, or harassing behavior.
+2.3 Employees are expected to follow company policies and applicable laws.
+
+3. CONFLICTS OF INTEREST
+3.1 Employees must disclose actual or potential conflicts of interest to their manager or Compliance.
+3.2 Employees must not use their position for improper personal benefit.
+3.3 Employees must not participate in a business decision where a personal interest could improperly influence the decision without appropriate disclosure and review.
+
+4. GIFTS AND HOSPITALITY
+4.1 Employees must not accept gifts or hospitality that could reasonably appear to influence a business decision.
+4.2 Cash gifts or cash equivalents from vendors or business partners are prohibited.
+4.3 Gifts that could create an obligation or conflict must be disclosed to Compliance.
+
+5. CONFIDENTIAL INFORMATION
+Employees must protect confidential company, customer, employee, and partner information and use it only for authorized business purposes.
+
+6. RECORDS AND ACCURACY
+Employees must provide accurate information in company records, expense reports, time records, and other business documents.
+
+7. FAIR DEALING
+Employees must deal honestly and fairly with customers, suppliers, competitors, and colleagues and must not intentionally misrepresent material information.
+
+8. HARASSMENT AND DISCRIMINATION
+ACME Corp prohibits unlawful discrimination, harassment, and retaliation and expects employees to report concerns through available reporting channels.
+
+9. COMPANY PROPERTY
+Company property, systems, funds, and resources must be used responsibly and for authorized purposes.
+
+10. REPORTING CONCERNS
+Employees should report suspected misconduct to their manager, Human Resources, Compliance, or another designated reporting channel.
+
+11. NON-RETALIATION
+ACME Corp prohibits retaliation against employees who make good-faith reports or participate in authorized investigations.
+
+12. VIOLATIONS
+Violations may result in corrective or disciplinary action, up to and including termination, consistent with applicable policy and law.

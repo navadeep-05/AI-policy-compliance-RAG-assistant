@@ -1,0 +1,44 @@
+ACME CORP EMPLOYEE ONBOARDING GUIDE
+Policy ID: ACME-HR-006
+Version: 2.0
+Effective Date: January 1, 2026
+
+1. PURPOSE
+This guide defines the standard onboarding activities expected during an employee's first weeks at ACME Corp.
+
+2. BEFORE THE START DATE
+2.1 New employees must complete required employment documentation.
+2.2 Required identity, payroll, and contact information must be submitted through approved channels.
+2.3 IT may prepare approved equipment and account access before the start date.
+
+3. FIRST DAY
+3.1 Employees must complete required orientation activities.
+3.2 Employees must activate their company account and configure required authentication.
+3.3 Employees must review applicable security, acceptable-use, and conduct policies.
+
+4. FIRST WEEK
+4.1 Employees should complete mandatory training assigned by Human Resources or their department.
+4.2 Employees should meet their manager and understand role responsibilities and working arrangements.
+4.3 Employees must verify that required systems and tools are available.
+
+5. SECURITY TRAINING
+Employees must complete assigned information-security and privacy training within the deadline specified by the training system.
+
+6. EQUIPMENT
+6.1 Company-issued equipment must be used according to security and acceptable-use policies.
+6.2 Employees must not install unauthorized software on company-managed devices.
+6.3 Equipment problems should be reported to IT through the approved support process.
+
+7. ACCESS REQUESTS
+7.1 Access to systems is granted according to job responsibilities.
+7.2 Employees must not request or use access that is unnecessary for their role.
+7.3 Access changes should be requested through the manager and approved access process.
+
+8. PROBATION / INITIAL REVIEW
+Managers may conduct an initial performance or onboarding review during the first 90 days.
+
+9. COMPLETION
+Onboarding is considered complete when required documentation, training, system access, and role-specific orientation activities have been completed.
+
+10. QUESTIONS
+Employees should contact their manager, Human Resources, or IT depending on the issue.

@@ -1,0 +1,9 @@
+pymupdf
+chromadb
+langchain-text-splitters
+google-generativeai
+python-dotenv6
+streamlit
+sentence-transformers
+pandas
+reportlab

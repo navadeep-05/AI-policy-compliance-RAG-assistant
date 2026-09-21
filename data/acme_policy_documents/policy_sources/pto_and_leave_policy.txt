@@ -1,0 +1,52 @@
+ACME CORP PTO AND LEAVE POLICY
+Policy ID: ACME-HR-002
+Version: 2.0
+Effective Date: January 1, 2026
+
+1. PURPOSE
+This policy establishes rules for paid time off (PTO), sick leave, leave requests, and extended leave.
+
+2. SCOPE
+This policy applies to regular ACME Corp employees. Eligibility may vary by employment classification.
+
+3. PTO ACCRUAL
+3.1 Employees accrue PTO at a rate based on employment classification and length of service.
+3.2 Full-time employees accrue 1.5 days of PTO per month during their first two years.
+3.3 Employees with more than two years of continuous service accrue 2 days per month.
+3.4 PTO accrual stops when an employee reaches a balance of 30 days.
+
+4. PTO REQUESTS
+4.1 Planned PTO should normally be requested at least 5 business days in advance.
+4.2 PTO requests require manager approval before the absence begins.
+4.3 Approval depends on staffing, business requirements, and previously approved leave.
+4.4 Employees should not assume that submitting a request means it is approved.
+
+5. SICK LEAVE
+5.1 Eligible employees may use accrued sick leave for their own illness, medical appointments, or permitted care of an immediate family member.
+5.2 Employees should notify their manager as soon as reasonably possible when sick leave is unexpected.
+5.3 Employees should not disclose unnecessary private medical information to their manager.
+
+6. EXTENDED LEAVE
+6.1 Extended leave requests must be coordinated with Human Resources.
+6.2 Leave protected by applicable law will be administered according to the relevant legal requirements.
+6.3 Employees may be required to provide documentation where permitted by applicable law and company procedure.
+
+7. HOLIDAYS DURING PTO
+7.1 A company holiday occurring during approved PTO is not deducted as a PTO day.
+
+8. PTO CARRYOVER
+8.1 Unused PTO may carry into the following year up to a maximum balance of 30 days unless a different rule applies to the employee's classification.
+8.2 Once the maximum balance is reached, additional accrual is suspended until the balance decreases.
+
+9. CANCELLATION
+9.1 Managers may request changes to approved PTO when significant business circumstances require staffing changes.
+9.2 Employees should notify their manager promptly if approved leave dates change.
+
+10. RESPONSIBILITIES
+Employees are responsible for submitting accurate requests and maintaining awareness of their available balance. Managers are responsible for reviewing requests consistently and considering operational needs.
+
+11. POLICY VIOLATIONS
+Falsifying leave records or misrepresenting an absence may result in corrective or disciplinary action.
+
+12. QUESTIONS
+Questions about balances, eligibility, or extended leave should be directed to Human Resources.

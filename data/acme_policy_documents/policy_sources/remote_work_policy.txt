@@ -1,0 +1,63 @@
+ACME CORP REMOTE WORK POLICY
+Policy ID: ACME-HR-001
+Version: 2.0
+Effective Date: January 1, 2026
+
+1. PURPOSE
+This policy defines the rules and requirements for employees who perform work remotely from an approved alternative location.
+
+2. SCOPE
+This policy applies to all ACME Corp employees who are authorized to work remotely, whether temporarily or on a recurring basis.
+
+3. REMOTE WORK ELIGIBILITY
+3.1 Employees may request remote work from an approved alternative location subject to manager approval.
+3.2 Employees must have completed their initial onboarding requirements before requesting extended remote work.
+3.3 Approval depends on business requirements, job responsibilities, team availability, and the employee's ability to perform duties remotely.
+
+4. REMOTE WORK DURATION
+4.1 Standard remote work from an alternative location is permitted for up to 30 consecutive calendar days per year with manager approval.
+4.2 Requests exceeding 30 consecutive calendar days require written authorization from both Human Resources and the Department Head.
+4.3 Employees may not divide requests into multiple periods to avoid the 30-day approval requirement.
+4.4 Remote work approval does not automatically renew each year.
+
+5. REMOTE WORK LOCATION
+5.1 Employees must provide their intended remote-work location in the request.
+5.2 Employees may work only from locations approved by their manager.
+5.3 Employees must notify their manager before changing the approved location.
+5.4 Remote work must not be performed from a location that creates unacceptable security, legal, or operational risks.
+
+6. SECURITY AND HARDWARE REQUIREMENTS
+6.1 Remote access to company systems must use company-issued hardware.
+6.2 An active company-approved VPN must be used when accessing internal systems remotely.
+6.3 Employees must follow all information-security and data-protection requirements.
+6.4 Confidential company information must not be stored on personal devices or unauthorized cloud services.
+6.5 BYOD personal laptops are prohibited for remote operations exceeding 5 business days.
+6.6 Lost or stolen company equipment must be reported immediately to IT.
+
+7. WORKING HOURS AND AVAILABILITY
+7.1 Employees must maintain their normal working schedule unless an alternative schedule is approved.
+7.2 Employees must remain reachable through approved company communication channels during scheduled hours.
+7.3 Employees must attend required meetings.
+
+8. REMOTE WORK APPROVAL PROCESS
+8.1 Employees must submit a request before beginning remote work.
+8.2 The request must include dates, location, reason, working-facility confirmation, and equipment confirmation.
+8.3 Requests exceeding 30 consecutive days must also be submitted to HR and the Department Head.
+8.4 Approval must be received before the requested remote-work period begins.
+
+9. EXCEPTIONS
+9.1 Exceptions may be granted when business or personal circumstances justify an exception.
+9.2 Exceptions exceeding the standard 30-day duration require written approval from HR and the Department Head.
+9.3 An exception for one employee does not create an entitlement for others.
+
+10. PROHIBITED REMOTE-WORK ACTIVITIES
+Employees must not use unauthorized devices, share credentials, disable required security controls, store confidential information on unauthorized devices, allow unauthorized access to company equipment, or work from an unapproved location.
+
+11. EMPLOYEE RESPONSIBILITIES
+Employees are responsible for maintaining a suitable working environment, protecting company equipment and information, following security requirements, maintaining working hours, reporting security incidents, and informing their manager of significant changes affecting remote work.
+
+12. POLICY VIOLATIONS
+Failure to comply may result in withdrawal of remote-work privileges and disciplinary action under applicable company policies.
+
+13. POLICY QUESTIONS
+Employees should contact their manager or Human Resources with questions about eligibility, approval, security, or exceptions.

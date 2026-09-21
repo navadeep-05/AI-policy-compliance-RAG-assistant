@@ -5,5 +5,7 @@ google-genai
 python-dotenv
 streamlit
 sentence-transformers
+torch
+torchvision
 pandas
 reportlab

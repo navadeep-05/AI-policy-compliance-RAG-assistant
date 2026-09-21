@@ -2,6 +2,7 @@ import chromadb   # ChromaDB for vector search
 from functools import lru_cache
 from sentence_transformers import SentenceTransformer  # Create query embeddings
 from src.reranker import rerank_documents  # Rerank retrieved policy chunks
+from src.initialize_rag import initialize_vector_store # loads or creates vector database
 
 CHROMA_PATH = "chroma_db"  # Location of our newly created vector database (chromadb)
 MODEL_NAME = "all-MiniLM-L6-v2"  # Same model used during indexing

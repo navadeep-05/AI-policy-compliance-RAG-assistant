@@ -3,7 +3,7 @@ from functools import lru_cache
 from sentence_transformers import SentenceTransformer  # Create query embeddings
 from src.reranker import rerank_documents  # Rerank retrieved policy chunks
 
-CHROMA_PATH = "chroma_db"  # Location of our vector database
+CHROMA_PATH = "chroma_db"  # Location of our newly created vector database (chromadb)
 MODEL_NAME = "all-MiniLM-L6-v2"  # Same model used during indexing
 
 
@@ -16,10 +16,8 @@ def get_embedding_model():
 # Connect to our existing persistent vector database
 client = chromadb.PersistentClient(path=CHROMA_PATH)
 
-# Load the policy collection we created earlier
-collection = client.get_collection(
-    name="policy_documents"
-)
+# Create/load the vector database automatically
+collection = initialize_vector_store()
 
 
 def retrieve_documents(query, top_k=5):

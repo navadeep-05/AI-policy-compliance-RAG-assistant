@@ -65,6 +65,13 @@ The main objectives are to:
 
 ------------------------------------------------------------------------
 
+### 🚀 Live Demo
+
+A deployed version of this application is available for testing and evaluation.  
+You can explore the RAG pipeline, test policy compliance queries, and use this project for learning or research purposes where applicable.
+
+------------------------------------------------------------------------
+
 ## 4. High-Level Architecture
 
 ``` text

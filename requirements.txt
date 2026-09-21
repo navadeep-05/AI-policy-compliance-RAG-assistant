@@ -2,7 +2,7 @@ pymupdf
 chromadb
 langchain-text-splitters
 google-genai
-python-dotenv6
+python-dotenv
 streamlit
 sentence-transformers
 pandas
